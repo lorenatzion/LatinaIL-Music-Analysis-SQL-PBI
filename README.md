@@ -29,7 +29,7 @@ The core of the project is the `LatinaILlMusic` database, built to ensure high d
 ---
 
 ## Phase 2: Business Intelligence (Power BI)
-The insights are visualized in the **Poyecto4.pbix** report, which connects to the SQL backend to provide interactive analytics.
+The insights are visualized in the **Project4.pbix** report, which connects to the SQL backend to provide interactive analytics.
 
 ### Dashboard Highlights:
 * **Demographic Breakdown:** Analysis of the Latina community by country of origin and Israeli city of residence.
@@ -41,7 +41,7 @@ The insights are visualized in the **Poyecto4.pbix** report, which connects to t
 
 ## Repository Structure
 * `sql_scripts/`: Contains the full DDL and DML scripts to recreate the database.
-* `power_bi/`: The **Poyecto4.pbix** file and report screenshots.
+* `power_bi/`: The **Project4.pbix** file and report screenshots.
 * `data/`: Sample datasets in CSV format.
 
 ---
@@ -49,7 +49,7 @@ The insights are visualized in the **Poyecto4.pbix** report, which connects to t
 ## How to Run
 1.  **Clone** this repository.
 2.  **Execute** the scripts located in `sql_scripts/` in your SQL engine.
-3.  **Open** `Poyecto4.pbix` in Power BI Desktop to explore the interactive dashboard.
+3.  **Open** `Project4.pbix` in Power BI Desktop to explore the interactive dashboard.
     * *Note: You may need to update the Data Source settings to point to your local SQL instance.*
 
 ---
