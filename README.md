@@ -7,6 +7,16 @@ This repository demonstrates the full data lifecycle: from **Relational Database
 
 ---
 
+## Project Dashboards
+
+### Community Profile & Technology Adoption
+![Community Profile](visuals/community%20profile%20%26%20technology%20adoption.png)
+
+### Musical Insights & Top Content Rankings
+![Musical Insights](visuals/musical%20insights%20%26%20top%20content%20rankings.png)
+
+---
+
 ## Tech Stack
 * **Database:** SQL Server / MySQL (Relational Schema Design)
 * **BI Tool:** Power BI Desktop
